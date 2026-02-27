@@ -16,7 +16,7 @@ class FlutterQuizApp extends StatelessWidget {
         fontFamily: 'Poppins',
         appBarTheme: const AppBarTheme(
           elevation: 0,
-          centerTitle: true,
+          centerTitle: tru
           backgroundColor: Colors.white,
           foregroundColor: Colors.deepPurple,
         ),
